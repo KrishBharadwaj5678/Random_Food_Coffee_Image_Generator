@@ -7,7 +7,7 @@ st.set_page_config(
     page_title="Random Food | Coffee Image Generator",
     page_icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI46Lf5WnsInIevmoAxkiKucq4lgTHVHKk7A&s",
     menu_items={
-        "About":"From spicy curries to decadent desserts, every picture is a culinary adventure.From beans to brews, our random coffee image generator serves up a fresh cup of visual delight with every click."
+        "About":"From spicy curries to decadent desserts, every picture is a culinary adventure. From beans to brews, our random coffee image generator serves up a fresh cup of visual delight with every click."
     }
 )
 
